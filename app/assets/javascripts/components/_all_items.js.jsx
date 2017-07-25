@@ -21,5 +21,5 @@ var AllItems = React.createClass({
             {items}
         </div>
     )
-}
+  }
 });
